@@ -92,7 +92,12 @@ function App() {
           type="number" 
           placeholder="Type a number" 
         /> 
-        <button onClick={plus}>add</button> 
+        <button onClick={plus}>add</button>
+        <button onClick={plus}>subtract</button>
+        <button onClick={plus}>multipy</button>
+        <button onClick={plus}>divide</button>
+        <button onClick={plus}>reset input</button>
+        <button onClick={plus}>reset result</button> 
         {/* Add the subtract button */} 
         {/* Add the multiply button */} 
         {/* Add the divide button */} 
