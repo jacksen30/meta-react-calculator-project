@@ -67,7 +67,7 @@ function App() {
           <br />
           <button className='btn' onClick={resetResult}>reset result</button>  
         </form>
-        <p className='attribution'>Meta React Basics Solution Coded By <a href="https://devbyjacksen.com/" target="_blank">Jacksen</a></p>
+        <p className='attribution'>Meta React Basics Solution Coded By <a href="https://devbyjacksen.com/" target="_blank" rel="noopener noreferrer">Jacksen</a></p>
       </div> 
     </div> 
   ); 
